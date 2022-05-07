@@ -29,8 +29,9 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 ```R
 Inglês – nível Intermediário.
 Espanhol – nível Básico.
+```
 
-## ⚒ _Atividades Extracurricular_
+### ⚒ _Atividades Extracurricular_
 
 ### ° Criação da identidade visual da UGTSIC/SESAP
 - De setembro de 2020 a dezembro de 2020.
