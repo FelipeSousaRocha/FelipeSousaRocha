@@ -38,10 +38,11 @@ Espanhol – nível Básico.
 ```
 
 ### ⚒ _Atividades Extracurricular_
+```R
 
 ### ° Criação da identidade visual da UGTSIC/SESAP
 - De setembro de 2020 a dezembro de 2020.
 
 ### ° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
-
+```
 
