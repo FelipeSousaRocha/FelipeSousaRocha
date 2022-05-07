@@ -6,12 +6,10 @@ My name is Felipe Rocha, I'm Brazilian, I have 20 years and Study Systems Analys
 ```
 
 ## Connect whitch me:
-```R
 <a href="https://www.linkedin.com/in/felipe-rocha-2704051b6/">    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="">
 </a>
 <a href="https://www.instagram.com/programmingtheworld.py/"> <img width="40" src="https://th.bing.com/th/id/R1c4afc1e38fa2de56562b3582742d1bb?rik=XGf13%2bPqzH%2biWg&pid=ImgRaw" alt=""> </a>
 <a href="https://www.youtube.com/channel/UCfePZXbzrkqg3xBsyDCMfzw"> <img width="40" src="https://th.bing.com/th/id/R77208524214ac2b0b957bf7afa4f7f04?rik=4Zd7%2bVoFAOwZEQ&pid=ImgRaw" alt=""> </a>
-```
 
 ## 🎯 _Objetivo Profissional_
 ```R
@@ -38,11 +36,11 @@ Espanhol – nível Básico.
 ```
 
 ### ⚒ _Atividades Extracurricular_
-```R
+
 
 ### ° Criação da identidade visual da UGTSIC/SESAP
 - De setembro de 2020 a dezembro de 2020.
 
 ### ° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
-```
+
 
