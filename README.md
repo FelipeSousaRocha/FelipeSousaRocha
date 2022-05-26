@@ -1,15 +1,24 @@
 ### Hello Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-### :notebook: Um pouco sobre mim
+### :notebook: Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente aprendendo de tudo um pouco. Me interesso principalmente por Front-end.
 
 Veja meu perfil e caso se interesse entre em contato comigo 
+
+## 📚 _Formação_
+```R
+° Graduação em Análise e Desenvolvimento de Sistemas - Em Andamento.
+    ° Instituto Federal do Rio Grande do Norte.
+    ° Conclusão: Dezembro/2023.
+```
+### ⚒ _Atividades Extracurricular_
+
+
+### ° Criação da identidade visual da UGTSIC/SESAP
+- De setembro de 2020 a dezembro de 2020.
+
+### ° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
 
 ### :dart: Objetivos
 
@@ -22,25 +31,49 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesousarocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programação
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+### 👩‍💻 Linguagens
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
+
 ### ⚡ Banco de dados
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />  
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> 
+
 ### 🖍 Design
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />  
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🚀 Frameworks
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+### 👩‍💻 IDE
+![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
 ### :computer: O que estou fazendo agora
 
- - Se aprofundando em Estrutura de dados
+° Aprofundando em Javascript, React
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=data-structures-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/matheusinit/data-structures-java)
 
- - Aplicando conhecimento Front-end em projetos
+° Aplicando conhecimento Front-end em projetos
  
- **Nenhum projeto**
+ ** 📱 [Skambo](http://felipesrocha.pythonanywhere.com/skambo/) **
+ ** [Carona amiga] **
   
 ### Contato
 
@@ -48,40 +81,12 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> **felipedsousarocha@gmail.com**
 
-
-## Connect whitch me:
-<a href="https://www.linkedin.com/in/felipe-rocha-2704051b6/">    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="">
-</a>
-<a href="https://www.instagram.com/programmingtheworld.py/"> <img width="40" src="https://th.bing.com/th/id/R1c4afc1e38fa2de56562b3582742d1bb?rik=XGf13%2bPqzH%2biWg&pid=ImgRaw" alt=""> </a>
-<a href="https://www.youtube.com/channel/UCfePZXbzrkqg3xBsyDCMfzw"> <img width="40" src="https://th.bing.com/th/id/R77208524214ac2b0b957bf7afa4f7f04?rik=4Zd7%2bVoFAOwZEQ&pid=ImgRaw" alt=""> </a>
-
-## 🎯 _Objetivo Profissional_
-```R
-
-```
-
-## 📚 _Formação_
-```R
-° Graduação em Análise e Desenvolvimento de Sistemas - Em Andamento.
-    ° Instituto Federal do Rio Grande do Norte.
-    ° Conclusão: Dezembro/2023.
-```
-
-## Technologies:
-<ul> <li><img width="40" src="https://img2.gratispng.com/20180810/fvl/kisspng-javascript-comment-html-logo-international-confere-amp-quot-need-page-amp-quot-5b6d61dfbbdf29.2420070415338951357695.jpg" alt=""> </li> <li><img width="40" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" alt="">  <li><img width="40" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" alt=""> </li> <li><img width="40" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt=""> </li> <li><img width="40" src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" alt=""></li> <li><img width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt=""> </li> <li><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt=""> </li> <li><img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXQkqjZJ6NHpMb1tr2oRYFlY1dfJsnexTAaeZaRsM13qKX_O5ZJ_qly1BKrA_r8_cxbo&usqp=CAU" alt=""> </li>    </ul>
-
 ## 🗺 _Idiomas_
 ```R
 Inglês – nível Intermediário.
 Espanhol – nível Básico.
 ```
 
-### ⚒ _Atividades Extracurricular_
 
-
-### ° Criação da identidade visual da UGTSIC/SESAP
-- De setembro de 2020 a dezembro de 2020.
-
-### ° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
 
 
