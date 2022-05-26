@@ -18,7 +18,7 @@ Veja meu perfil e caso se interesse entre em contato comigo
 
 ### :wrench: Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesousarocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -37,10 +37,10 @@ Veja meu perfil e caso se interesse entre em contato comigo
   
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva13/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesousarocha/)
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-Email: **matheus.oliveira.s@protonmail.com**
+Email: **felipedsousarocha@gmail.com**
 
 
 
