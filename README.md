@@ -7,23 +7,30 @@
 
 ### :notebook: Um pouco sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente aprendendo de tudo um pouco. Me interesso principalmente por Back-end.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente aprendendo de tudo um pouco. Me interesso principalmente por Front-end.
 
 Veja meu perfil e caso se interesse entre em contato comigo 
 
 ### :dart: Objetivos
 
- - Se tornar Desenvolvedor de Software especializado em Back-end.
- - Contribuir 
+Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
+° Front-ent Jr.
+° UX/UI Jr.
+° Desenvolvedor React Jr. 
 
 ### :wrench: Tecnologias
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesousarocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Programação
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### ⚡ Banco de dados
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />  
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> 
+### 🖍 Design
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />  
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
 
 ### :computer: O que estou fazendo agora
 
@@ -39,15 +46,8 @@ Veja meu perfil e caso se interesse entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesousarocha/)
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-Email: **felipedsousarocha@gmail.com**
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> **felipedsousarocha@gmail.com**
 
-
-
-## About me 
-```R
-My name is Felipe Rocha, I'm Brazilian, I have 20 years and Study Systems Analysis and Development at IFRN-CNAT, my focus is Front-end. 💻
-```
 
 ## Connect whitch me:
 <a href="https://www.linkedin.com/in/felipe-rocha-2704051b6/">    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="">
@@ -57,10 +57,7 @@ My name is Felipe Rocha, I'm Brazilian, I have 20 years and Study Systems Analys
 
 ## 🎯 _Objetivo Profissional_
 ```R
-Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
-° Front-ent Jr.
-° UX/UI Jr.
-° Desenvolvedor React Jr.
+
 ```
 
 ## 📚 _Formação_
