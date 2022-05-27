@@ -15,10 +15,10 @@ Veja meu perfil e caso se interesse entre em contato comigo
 ### ⚒ _Atividades Extracurricular_
 
 ```R
-## ° Criação da identidade visual da UGTSIC/SESAP
+° Criação da identidade visual da UGTSIC/SESAP
 - De setembro de 2020 a dezembro de 2020.
 
-## ° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
+° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
 ```
 
 ### :dart: Objetivos
