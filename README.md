@@ -57,9 +57,9 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 
 ### :computer: O que estou fazendo agora
 
-° Aprofundando em Javascript, React
+° Criando portifólio
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=data-structures-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/matheusinit/data-structures-java)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=data-structures-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/FelipeSousaRocha/Portifolio)
 
 ° Aplicando conhecimento Front-end em projetos
  
