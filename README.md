@@ -12,7 +12,7 @@ Veja meu perfil e caso se interesse entre em contato comigo
     ° Instituto Federal do Rio Grande do Norte.
     ° Conclusão: Dezembro/2023.
 ```
-### ⚒ _Atividades Extracurricular_
+### ⚒ _Atividades Extracurriculares_
 
 ```R
 ° Criação da identidade visual da UGTSIC/SESAP
