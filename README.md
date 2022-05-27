@@ -59,7 +59,7 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 
 ° Criando portifólio
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=matheusinit&repo=data-structures-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/FelipeSousaRocha/Portifolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=felipesousarocha&repo=Portifolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/FelipeSousaRocha/Portifolio)
 
 ° Aplicando conhecimento Front-end em projetos
  
