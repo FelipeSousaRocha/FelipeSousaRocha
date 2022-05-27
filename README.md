@@ -1,9 +1,9 @@
 ### Hello Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### :notebook: Sobre mim
-
+```R
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFRN, atualmente aprendendo de tudo um pouco. Me interesso principalmente por Front-end.
-
+```
 Veja meu perfil e caso se interesse entre em contato comigo 
 
 ## 📚 _Formação_
@@ -14,18 +14,20 @@ Veja meu perfil e caso se interesse entre em contato comigo
 ```
 ### ⚒ _Atividades Extracurricular_
 
-
-### ° Criação da identidade visual da UGTSIC/SESAP
+```R
+## ° Criação da identidade visual da UGTSIC/SESAP
 - De setembro de 2020 a dezembro de 2020.
 
-### ° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
+## ° Participação do curso programação Competitiva do IFRN com o prof. Jorgiano
+```
 
 ### :dart: Objetivos
-
+```R
 Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 ° Front-ent Jr.
 ° UX/UI Jr.
 ° Desenvolvedor React Jr. 
+```
 
 ### :wrench: Tecnologias
 
