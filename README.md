@@ -1,4 +1,4 @@
-### Hello Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+### Hello Dev!
 
 ### :notebook: Sobre mim
 ```R
