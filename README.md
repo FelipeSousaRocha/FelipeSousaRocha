@@ -62,8 +62,10 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 
 ° Aplicando conhecimento em projetos
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=felipesousarocha&repo=tcp-udp-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/matheusinit/tcp-udp-python)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=felipesousarocha&repo=tcp-udp-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/felipesousarocha/tcp-udp-python)
  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=felipesousarocha&repo=rpc-in-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/felipesousarocha/rpc-in-c)
+
  ** [Skambo](http://felipesrocha.pythonanywhere.com/skambo/) **
  
  ** [Carona amiga] **
