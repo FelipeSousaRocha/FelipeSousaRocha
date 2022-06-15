@@ -61,10 +61,10 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=felipesousarocha&repo=Portifolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/FelipeSousaRocha/Portifolio)
 
 ° Aplicando conhecimento em projetos
- 
- ** 📱 [Skambo](http://felipesrocha.pythonanywhere.com/skambo/) **
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=felipesousarocha&repo=Portifolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](http://felipesrocha.pythonanywhere.com/skambo/)
  ** [Carona amiga] **
- ** [tcp-udp-python](https://github.com/matheusinit/tcp-udp-python) **
+ [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=felipesousarocha&repo=Portifolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/matheusinit/tcp-udp-python)
   
 ### Contato
 
