@@ -8,9 +8,9 @@ Veja meu perfil e caso se interesse entre em contato comigo
 
 ## 📚 _Formação_
 ```R
-° Graduação em Análise e Desenvolvimento de Sistemas - Em Andamento.
+° Graduação em Análise e Desenvolvimento de Sistemas - Concluido.
     ° Instituto Federal do Rio Grande do Norte.
-    ° Conclusão: Dezembro/2023.
+    ° Conclusão: Janeiro de 2024.
 ```
 ### ⚒ _Atividades Extracurriculares_
 
@@ -68,7 +68,7 @@ Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
 
  ** [Skambo](http://felipesrocha.pythonanywhere.com/skambo/) **
  
- ** [Carona amiga] **
+ ** [Carona amiga](https://github.com/Carona-Amiga/caronaamiga) **
   
 ### Contato
 
