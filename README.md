@@ -24,9 +24,10 @@ Veja meu perfil e caso se interesse entre em contato comigo
 ### :dart: Objetivos
 ```R
 Cargo nas áreas de: Análise e Desenvolvimento de Sistemas:
-° Front-ent Jr.
+° Front-ent PL.
 ° UX/UI Jr.
-° Desenvolvedor React Jr. 
+° Desenvolvedor React PL. 
+° Backend PL.
 ```
 
 ### :wrench: Tecnologias
